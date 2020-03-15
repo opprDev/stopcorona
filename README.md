@@ -52,9 +52,11 @@ Copyright © 2019 [oppr](https://oppr.io)
 
 The [`stopcorona`](https://github.com/opprDev/stopcorona) repository is distributed under the terms of [MIT](LICENSE) license and the present information is covered by this. You are free to make changes and use this in either personal or commercial projects. Attribution is not required, but it is welcomed. A little "Thanks!" (or something to that affect) would be much appreciated.
 
-### Authors
+### Owner
 
 - [Pedro Miranda]()
+
+### Authors
 
 - [Francisco Maria Calisto](http://www.franciscocalisto.me/) [[ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/)]
 
