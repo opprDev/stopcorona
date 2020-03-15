@@ -40,7 +40,7 @@ cd stopcorona/
 
 ## Information
 
-As far as we have to store the presented data regarding our research revisions, we need to share their information with our teams. This documentation will gave us a better understanding regarding the revision process.
+In this section, we describe the repository information for showing the components of the presented source. Further, we will describe important information that will be crucial to embrace the current repository.
 
 ### Acknowledgements
 
