@@ -4,7 +4,6 @@
 
 [![MIT](https://flat.badgen.net/github/license/opprDev/stopcorona)](https://github.com/opprDev/stopcorona/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/stopcorona?style=flat-square)](https://github.com/opprDev/stopcorona/commits/master)
-[![HitCount](http://hits.dwyl.io/opprDev/stopcorona.svg)](http://hits.dwyl.io/opprDev/stopcorona)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
