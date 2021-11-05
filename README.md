@@ -9,7 +9,7 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-In this repository, we follow the "[COVID Detection Using Deep Learning](https://youtu.be/OFF2iW73wZg)" video by [Edureka](https://www.edureka.co/ai-deep-learning-with-tensorflow). This repository is providing a comprehensive and detailed knowledge of image classification and how it can be implemented using a Convolutional Neural Network (CNN) model. Moreover, the source is working on image processing with Python and also will learn about the CNN. Finally, the code provides an end-to-end model to process and identify the Covid X-Ray images with CNN.
+In this repository, we follow the "[COVID Detection Using Deep Learning](https://youtu.be/OFF2iW73wZg)" video by [Edureka](https://www.edureka.co/ai-deep-learning-with-tensorflow). This repository is providing a comprehensive and detailed knowledge of image classification and how it can be implemented using a Convolutional Neural Network (CNN) model. Moreover, the source is working on image processing with Python and also will learn about the CNN. Finally, the code provides an end-to-end model to process and identify the Covid X-Ray images with CNN. For the purpose, we used the well known "[COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)" for training our model.
 
 <a href="https://www.patreon.com/oppr" target="_blank">
 <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
