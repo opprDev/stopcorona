@@ -44,7 +44,7 @@ In this section, we describe the repository information for showing the componen
 
 ### Acknowledgements
 
-TODO
+TODO: include people
 
 ### License
 
